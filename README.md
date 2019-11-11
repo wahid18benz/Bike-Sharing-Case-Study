@@ -14,6 +14,7 @@ holiday - whether the day is considered a holiday
 workingday - whether the day is neither a weekend nor holiday
 
 weather -
+
         1: Clear, Few clouds, Partly cloudy, Partly cloudy
 
         2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
